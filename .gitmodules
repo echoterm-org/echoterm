@@ -1,0 +1,3 @@
+[submodule "vault"]
+	path = vault
+	url = https://github.com/echoterm-org/echoterm-vault.git
